@@ -13,14 +13,28 @@ Este repositório contém o **Case de Engenharia de Requisitos e Design Centrado
 * Matheus Marques
 * Norton Almeida
 
+## 📂 Estrutura do Projeto e Documentação
+
+O projeto foi dividido em entregas acadêmicas complementares. Você pode acessar os relatórios técnicos completos na pasta `docs` ou pelos links diretos abaixo:
+
+* 📄 **[Parte 1 — Engenharia de Requisitos & UX](docs/UniXP%20-%20Parte%201%20-%20Engenharia%20de%20Requisitos.pdf):** * **Análise de Mercado:** Levantamento de impactos e *benchmarking* competitivo com ferramentas consolidadas (*Sympla* e *Cheers*).
+  * **Coleta de Dados:** Aplicação de questionários estruturados com foco na integração de regras de negócio (monetização e validação acadêmica via **SIGAA**).
+  * **Modelagem de Usuários:** Criação de perfis, cenários de interação de ponta a ponta e personas estruturadas (Acadêmica e Organizadora).
+  * **Especificação de Engenharia:** Levantamento de Requisitos Funcionais (RF) e Não Funcionais (RNF) com metas de eficiência inferiores a 2 segundos para transações críticas.
+
+* 📄 **[Parte 2 — Guia de Estilo & Fundamentação de IHC](docs/UniXP%20-%20Parte%202%20-%20Modelagem%20e%20Processos.pdf):**
+  * **Design Responsivo Duplo:** Guia de estilo completo focado em **Desktop** (alta densidade de dados e dashboards para organizadores) e **Mobile** (alto contraste, *touch targets* ampliados e chips de busca rápida para estudantes).
+  * **Princípios da Gestalt:** Aplicação prática de conceitos de *Proximidade*, *Similaridade* e *Continuidade* na organização visual de cards de eventos e gráficos de vendas.
+  * **Diretrizes e Critérios de IHC:** Implementação de conceitos de visibilidade do status do sistema (badges semânticos), antecipação de necessidades (exibição imediata de QR Codes) e equilíbrio entre controle e liberdade (alternância de perfis de usuário).
+  * **Acessibilidade e Usabilidade:** Conformidade com diretrizes da **WCAG/ISO**, garantindo contraste para leitura sob luz solar, design minimalista e multimodalidade de informação (combinação de cores, formas e textos para usuários daltônicos).
+
+* 📄 **[Parte 3 — Métodos de Inspeção & Avaliação Heurística](docs/UniXP%20-%20Parte%203%20-%20Prot%C3%B3tipo%20e%20IHC.pdf):**
+  * **Metodologia Aplicada:** Condução de uma Avaliação Heurística sistemática baseada nas **10 Heurísticas de Nielsen**, otimizando o ciclo de desenvolvimento com foco em baixo custo e alta eficiência diagnóstica.
+  * **Fluxo de Auditoria:** Execução rigorosa dividida em *Preparação* (estudo de domínio), *Coleta Individual de Dados*, *Interpretação*, *Consolidação em Grupo* (juízo de relevância e severidade) e *Relato*.
+  * **Mapeamento de Usabilidade:** Diagnóstico detalhado de problemas reais de interação nas versões Desktop e Mobile, cobrindo gravidades de nível 2 (pequeno) a nível 3 (grande).
+  * **Plano de Correção:** Proposição de soluções de engenharia voltadas a máscaras de validação dinâmica, ativação condicional de botões em formulários e otimização de fluxos com o mínimo de cliques possíveis.
+
 ---
-
-## Análise de Mercado e Impacto
-Atualmente, as informações de eventos acadêmicos e culturais ficam dispersas em redes sociais ou murais físicos. O UNIXP altera os seguintes processos de negócio:
-* **Venda de Ingressos:** Transição do modelo físico para o digital com taxas reduzidas para estudantes.
-* **Credenciamento:** Substituição de listas de papel por validação ágil via QR Code.
-* **Certificação:** Automação da emissão de certificados com validade acadêmica através de integração direta com sistemas universitários (ex: **SIGAA**), otimizando processos de grandes eventos como o CONPEEX.
-
 ---
 
 ## Processo de Design (Design Centrado no Usuário - DCU)
