@@ -69,12 +69,6 @@ O ambiente de design interativo e os fluxos de navegação da plataforma foram d
   <img src="https://img.shields.io/badge/Acessar%20Protótipo-Mobile%20📱-orange?style=for-the-badge&logo=figma&logoColor=white" alt="Protótipo Mobile">
 </a>
 
-## Interfaces e Modelagem
-
-### Protótipo de Alta Fidelidade (Figma)
-Você pode acessar o ambiente de design interativo do projeto diretamente no Figma:
-        Mobile: https://www.figma.com/proto/vZYXL81DfYG8ZsQBDmBokl/UniXP-IHC?node-id=1-1086&t=xSRUobxW3BChmApI-1
-Desktop https://www.figma.com/proto/vZYXL81DfYG8ZsQBDmBokl/UniXP-IHC?node-id=0-1&t=xSRUobxW3BChmApI-1
 
 #### Telas do Sistema
 *Exemplo das interfaces desenvolvidas aplicadas aos conceitos de IHC:*
