@@ -62,8 +62,8 @@ A plataforma opera sob três perfis distintos: **Participante** (discentes), **O
 
 ### Protótipo de Alta Fidelidade (Figma)
 Você pode acessar o ambiente de design interativo do projeto diretamente no Figma:
-Mobile:🔗 https://www.figma.com/proto/vZYXL81DfYG8ZsQBDmBokl/UniXP-IHC?node-id=1-1086&t=xSRUobxW3BChmApI-1
-Desktop:
+Mobile: https://www.figma.com/proto/vZYXL81DfYG8ZsQBDmBokl/UniXP-IHC?node-id=1-1086&t=xSRUobxW3BChmApI-1
+Desktop: https://www.figma.com/proto/vZYXL81DfYG8ZsQBDmBokl/UniXP-IHC?node-id=0-1&t=xSRUobxW3BChmApI-1
 
 #### Telas do Sistema
 *Exemplo das interfaces desenvolvidas aplicadas aos conceitos de IHC:*
@@ -72,4 +72,5 @@ Desktop:
 *Legenda: Tela inicial com foco na experiência de busca do estudante.*
 
 ### Modelagem de Casos de Uso
-![Diagrama de Casos de Uso](assets/diagrama_casos_uso.png)
+<img width="238" height="160" alt="image" src="https://github.com/user-attachments/assets/d3b5a9fc-f254-4e79-960f-744d6433d97f" />
+
