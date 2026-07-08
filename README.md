@@ -62,7 +62,8 @@ A plataforma opera sob três perfis distintos: **Participante** (discentes), **O
 
 ### Protótipo de Alta Fidelidade (Figma)
 Você pode acessar o ambiente de design interativo do projeto diretamente no Figma:
-🔗 [Acesse o Protótipo no Figma](LINK_DO_SEU_FIGMA_AQUI)
+Mobile:🔗 https://www.figma.com/proto/vZYXL81DfYG8ZsQBDmBokl/UniXP-IHC?node-id=1-1086&t=xSRUobxW3BChmApI-1
+Desktop:
 
 #### Telas do Sistema
 *Exemplo das interfaces desenvolvidas aplicadas aos conceitos de IHC:*
