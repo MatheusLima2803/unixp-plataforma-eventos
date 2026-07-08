@@ -17,7 +17,7 @@ Este repositório contém o **Case de Engenharia de Requisitos e Design Centrado
 
 O projeto foi dividido em entregas acadêmicas complementares. Você pode acessar os relatórios técnicos completos na pasta `docs` ou pelos links diretos abaixo:
 
-* 📄 **[Parte 1 — Engenharia de Requisitos & UX](docs/UniXP%20-%20Parte%201%20-%20Engenharia%20de%20Requisitos.pdf):** * **Análise de Mercado:** Levantamento de impactos e *benchmarking* competitivo com ferramentas consolidadas (*Sympla* e *Cheers*).
+* 📄 **[Parte 1 — Engenharia de Requisitos & UX](docs/unixp-parte1.pdf):** * **Análise de Mercado:** Levantamento de impactos e *benchmarking* competitivo com ferramentas consolidadas (*Sympla* e *Cheers*).
   * **Coleta de Dados:** Aplicação de questionários estruturados com foco na integração de regras de negócio (monetização e validação acadêmica via **SIGAA**).
   * **Modelagem de Usuários:** Criação de perfis, cenários de interação de ponta a ponta e personas estruturadas (Acadêmica e Organizadora).
   * **Especificação de Engenharia:** Levantamento de Requisitos Funcionais (RF) e Não Funcionais (RNF) com metas de eficiência inferiores a 2 segundos para transações críticas.
