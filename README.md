@@ -58,6 +58,17 @@ A plataforma opera sob três perfis distintos: **Participante** (discentes), **O
 
 ---
 
+## 🎨 Interfaces e Prototipagem (Figma)
+
+O ambiente de design interativo e os fluxos de navegação da plataforma foram desenvolvidos no Figma. Você pode interagir com os protótipos de alta fidelidade clicando nos botões abaixo:
+
+<a href="https://www.figma.com/proto/vZYXL81DfYG8ZsQBDmBokl/UniXP-IHC?node-id=0-1&t=xSRUobxW3BChmApI-1" target="_blank">
+  <img src="https://img.shields.io/badge/Acessar%20Protótipo-Desktop%20💻-blue?style=for-the-badge&logo=figma&logoColor=white" alt="Protótipo Desktop">
+</a>
+<a href="https://www.figma.com/proto/vZYXL81DfYG8ZsQBDmBokl/UniXP-IHC?node-id=1-1086&t=xSRUobxW3BChmApI-1" target="_blank">
+  <img src="https://img.shields.io/badge/Acessar%20Protótipo-Mobile%20📱-orange?style=for-the-badge&logo=figma&logoColor=white" alt="Protótipo Mobile">
+</a>
+
 ## Interfaces e Modelagem
 
 ### Protótipo de Alta Fidelidade (Figma)
