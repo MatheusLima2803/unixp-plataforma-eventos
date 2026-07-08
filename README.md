@@ -47,8 +47,8 @@ A plataforma opera sob três perfis distintos: **Participante** (discentes), **O
 
 | Persona | Perfil | Dor Principal | Objetivo no UNIXP |
 | :--- | :--- | :--- | :--- |
-| **Acadêmica** (20 anos) | Aluno de Graduação | Demora e erros na emissão de horas de extensão | Obter certificados em PDF integrados ao SIGAA sem burocracia |
-| **Organizadora** (22 anos) | Diretor de Atlética | Custos operacionais altos e falta de dados de engajamento | Reduzir custos de bilheteria e acessar relatórios de vendas |
+| **Acadêmica** | Aluno de Graduação | Demora e erros na emissão de horas de extensão | Obter certificados em PDF integrados ao SIGAA sem burocracia |
+| **Organizadora** | Diretor de Atlética | Custos operacionais altos e falta de dados de engajamento | Reduzir custos de bilheteria e acessar relatórios de vendas |
 
 ### 3. Cenário de Interação (Exemplo)
 > **Validação de Presença e Certificação Automática:** O participante apresenta o ingresso digital via QR Code no smartphone. O funcionário realiza a leitura pelo aplicativo e o sistema registra a entrada em tempo real. Após o encerramento do evento, o sistema cruza os dados e disponibiliza o certificado autenticado automaticamente no perfil do usuário.
@@ -83,13 +83,4 @@ O ambiente de design interativo e os fluxos de navegação da plataforma foram d
   <img src="https://img.shields.io/badge/Acessar%20Protótipo-Mobile%20📱-orange?style=for-the-badge&logo=figma&logoColor=white" alt="Protótipo Mobile">
 </a>
 
-
-#### Telas do Sistema
-*Exemplo das interfaces desenvolvidas aplicadas aos conceitos de IHC:*
-
-![Home da Plataforma](assets/mockup_home.png)
-*Legenda: Tela inicial com foco na experiência de busca do estudante.*
-
-### Modelagem de Casos de Uso
-<img width="238" height="160" alt="image" src="https://github.com/user-attachments/assets/d3b5a9fc-f254-4e79-960f-744d6433d97f" />
 
