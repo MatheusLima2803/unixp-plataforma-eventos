@@ -1,6 +1,6 @@
 # UNIXP — Plataforma de Gestão e Comercialização de Ingressos Universitários
 
-## 📌 Sobre o Projeto
+## Sobre o Projeto
 O **UNIXP** é uma plataforma centralizada voltada para a divulgação, gerenciamento e comercialização de ingressos de eventos universitários. O ecossistema integra processos acadêmicos críticos, como a automação na emissão de certificados, resolvendo problemas crônicos de descentralização de informações e atrasos em validações de horas de extensão.
 
 Este repositório contém o **Case de Engenharia de Requisitos e Design Centrado no Usuário (DCU)** do sistema.
@@ -58,7 +58,7 @@ A plataforma opera sob três perfis distintos: **Participante** (discentes), **O
 
 ---
 
-## 🎨 Interfaces e Prototipagem (Figma)
+## Interfaces e Prototipagem (Figma)
 
 O ambiente de design interativo e os fluxos de navegação da plataforma foram desenvolvidos no Figma. Você pode interagir com os protótipos de alta fidelidade clicando nos botões abaixo:
 
