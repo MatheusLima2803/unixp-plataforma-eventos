@@ -7,7 +7,7 @@ Este repositório contém o **Case de Engenharia de Requisitos e Design Centrado
 
 ---
 
-## 👥 Equipe de Desenvolvimento
+## Equipe de Desenvolvimento
 * Arnaldo Rocha
 * Lucas Mota
 * Matheus Marques
@@ -15,7 +15,7 @@ Este repositório contém o **Case de Engenharia de Requisitos e Design Centrado
 
 ---
 
-## 🎯 Análise de Mercado e Impacto
+## Análise de Mercado e Impacto
 Atualmente, as informações de eventos acadêmicos e culturais ficam dispersas em redes sociais ou murais físicos. O UNIXP altera os seguintes processos de negócio:
 * **Venda de Ingressos:** Transição do modelo físico para o digital com taxas reduzidas para estudantes.
 * **Credenciamento:** Substituição de listas de papel por validação ágil via QR Code.
@@ -23,7 +23,7 @@ Atualmente, as informações de eventos acadêmicos e culturais ficam dispersas 
 
 ---
 
-## 📐 Processo de Design (Design Centrado no Usuário - DCU)
+## Processo de Design (Design Centrado no Usuário - DCU)
 
 ### 1. Análise e Coleta de Dados
 Foram aplicados questionários estruturados com o grupo responsável pelo pitch inicial para entender as dores do público-alvo (estudantes, atléticas e centros acadêmicos). Além disso, foi realizado um **Benchmarking** competitivo analisando lacunas em plataformas como *Sympla* e *Cheers*.
@@ -41,7 +41,7 @@ A plataforma opera sob três perfis distintos: **Participante** (discentes), **O
 
 ---
 
-## 📋 Engenharia de Requisitos
+## Engenharia de Requisitos
 
 ### Requisitos Funcionais (RF)
 * **[RF001] Gestão de Acesso:** Cadastro e login integrado (Google/Gmail, Apple) e integração SIGAA para validação de estudantes UFG.
@@ -58,7 +58,7 @@ A plataforma opera sob três perfis distintos: **Participante** (discentes), **O
 
 ---
 
-## 🎨 Interfaces e Modelagem
+## Interfaces e Modelagem
 
 ### Protótipo de Alta Fidelidade (Figma)
 Você pode acessar o ambiente de design interativo do projeto diretamente no Figma:
